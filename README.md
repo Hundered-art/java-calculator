@@ -16,4 +16,7 @@
 3. Run the file
 
 # Author
-Dheeraj Sharma
+Dheeraj Sharma 
+
+# Output Screenshot
+![Calculator Output] (screenshot.png)
